@@ -1,0 +1,24 @@
+{
+  "name": "servcore-teller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cache": "taskkill /IM servcore-sc-web.exe /F && node cache.js && cd C:/Users/rodri/Desktop && start sistemas" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoWebDev/servecore-teller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoWebDev/servecore-teller/issues"
+  },
+  "homepage": "https://github.com/RodrigoWebDev/servecore-teller#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
