@@ -1,6 +1,6 @@
 # Sicred Cache Cleaner
 
-### Instalação
+## Instalação
 
 * Clone ou descompacte os arquivos na raiz do projeto 
 * depois rode o seguinte comando no terminal
