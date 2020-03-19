@@ -2,7 +2,8 @@
 
 ### Instalação
 
-Clone ou descompacte os arquivos na raiz do projeto, depois rode o seguinte comando no terminal
+* Clone ou descompacte os arquivos na raiz do projeto 
+* depois rode o seguinte comando no terminal
 
 ```
 npm install
@@ -10,7 +11,9 @@ npm install
 
 ## Instruções
 
-Para limpar cache rode o seguinte comando dentro do terminal
+* Crie um atalho do app com o nome "sistemas"
+* Abra o arquivo package.json e altere "C:/Users/rodri/Desktop" para o caminho da pasta onde esta o atalho que você criou
+* Para limpar cache rode o seguinte comando dentro do terminal
 
 ```
 npm run cache
